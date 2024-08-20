@@ -22,7 +22,7 @@ packaging==23.2
 parso==0.8.4
 platformdirs==4.2.1
 pluggy==1.0.0
-prompt-toolkit==3.0.43
+#prompt-toolkit==3.0.43
 psutil==5.9.8
 pure-eval==0.2.2
 pycosat==0.6.6
