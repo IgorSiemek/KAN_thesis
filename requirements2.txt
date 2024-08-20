@@ -1,60 +1,60 @@
-anaconda-anon-usage     0.4.4
-archspec                0.2.3
-asttokens               2.4.1
-boltons                 23.0.0
-Brotli                  1.0.9
-certifi                 2024.6.2
-cffi                    1.16.0
-charset-normalizer      2.0.4
-colorama                0.4.6
-comm                    0.2.2
-conda                   24.5.0
-conda-content-trust     0.2.0
-conda-libmamba-solver   24.1.0
-conda-package-handling  2.3.0
-conda_package_streaming 0.10.0
-cryptography            42.0.5
-debugpy                 1.8.1
-decorator               5.1.1
-distro                  1.9.0
-executing               2.0.1
-frozendict              2.4.2
-idna                    3.7
-ipykernel               6.29.4
-ipython                 8.24.0
-jedi                    0.19.1
-jsonpatch               1.33
-jsonpointer             2.1
-jupyter_client          8.6.1
-jupyter_core            5.7.2
-libmambapy              1.5.8
-matplotlib-inline       0.1.7
-menuinst                2.1.1
-nest-asyncio            1.6.0
-packaging               23.2
-parso                   0.8.4
-pip                     24.0
-platformdirs            4.2.1
-pluggy                  1.0.0
-prompt-toolkit          3.0.43
-psutil                  5.9.8
-pure-eval               0.2.2
-pycosat                 0.6.6
-pycparser               2.21
-Pygments                2.18.0
-PySocks                 1.7.1
-pywin32                 306
-pyzmq                   26.0.3
-requests                2.32.2
-ruamel.yaml             0.17.21
-setuptools              69.5.1
-stack-data              0.6.3
-tornado                 6.4
-tqdm                    4.66.4
-traitlets               5.14.3
-truststore              0.8.0
-urllib3                 2.2.2
-wcwidth                 0.2.13
-wheel                   0.43.0
-win-inet-pton           1.1.0
-zstandard               0.22.0
+anaconda-anon-usage==0.4.4
+archspec==0.2.3
+asttokens==2.4.1
+boltons==23.0.0
+Brotli==1.0.9
+certifi==2024.6.2
+cffi==1.16.0
+charset-normalizer==2.0.4
+colorama==0.4.6
+comm==0.2.2
+conda==24.5.0
+conda-content-trust==0.2.0
+conda-libmamba-solver==24.1.0
+conda-package-handling==2.3.0
+conda_package_streaming0.10.0
+cryptography==42.0.5
+debugpy==1.8.1
+decorator==5.1.1
+distro==1.9.0
+executing==2.0.1
+frozendict==2.4.2
+idna==3.7
+ipykernel==6.29.4
+ipython==8.24.0
+jedi==0.19.1
+jsonpatch==1.33
+jsonpointer==2.1
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+libmambapy==1.5.8
+matplotlib-inline==0.1.7
+menuinst==2.1.1
+nest-asyncio==1.6.0
+packaging==23.2
+parso==0.8.4
+pip==24.0
+platformdirs==4.2.1
+pluggy==1.0.0
+prompt-toolkit==3.0.43
+psutil==5.9.8
+pure-eval==0.2.2
+pycosat==0.6.6
+pycparser==2.21
+Pygments==2.18.0
+PySocks==1.7.1
+pywin32==306
+pyzmq==26.0.3
+requests==2.32.2
+ruamel.yaml==0.17.21
+setuptools==69.5.1
+stack-data==0.6.3
+tornado==6.4
+tqdm==4.66.4
+traitlets==5.14.3
+truststore==0.8.0
+urllib3==2.2.2
+wcwidth==0.2.13
+wheel==0.43.0
+win-inet-pton==1.1.0
+zstandard==0.22.0
