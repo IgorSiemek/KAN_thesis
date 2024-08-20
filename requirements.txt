@@ -2,14 +2,14 @@ archspec==0.2.3
 asttokens==2.4.1
 boltons==23.0.0
 Brotli==1.0.9
-certifi==2024.6.2
-cffi==1.16.0
+# certifi==2024.6.2   # Remove or comment out
+# cffi==1.16.0        # Remove or comment out
 charset-normalizer==2.0.4
 colorama==0.4.6
 comm==0.2.2
 cryptography==42.0.5
-debugpy==1.8.1
-decorator==5.1.1
+# debugpy==1.8.1      # Remove or comment out
+decorator==4.4.2
 distro==1.9.0
 executing==2.0.1
 frozendict==2.4.2
@@ -22,14 +22,14 @@ packaging==23.2
 parso==0.8.4
 platformdirs==4.2.1
 pluggy==1.0.0
-#prompt-toolkit==3.0.43
-psutil==5.9.8
+# prompt-toolkit==3.0.43  # Commented out as you already mentioned
+# psutil==5.9.8           # Remove or comment out
 pure-eval==0.2.2
 pycosat==0.6.6
 pycparser==2.21
 Pygments==2.18.0
 PySocks==1.7.1
-requests==2.32.2
+requests==2.32.3
 ruamel.yaml==0.17.21
 stack-data==0.6.3
 tqdm==4.66.4
