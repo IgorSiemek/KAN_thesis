@@ -11,3 +11,7 @@ molecule
 expressiveness
 figures
 molecule
+envKAN/
+envMLP/
+data/
+model/
