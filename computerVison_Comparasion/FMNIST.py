@@ -7,7 +7,7 @@
 # In[1]:
 
 
-!pip install archspec==0.2.3  asttokens==2.4.1  boltons==23.0.0  Brotli==1.0.9  charset-normalizer==2.0.4  colorama==0.4.6  comm==0.2.2  cryptography==42.0.5  decorator==4.4.2  distro==1.9.0  executing==2.0.1  frozendict==2.4.2  idna==3.7  jedi==0.19.1  jsonpatch==1.33  jsonpointer==2.1  nest-asyncio==1.6.0  packaging==23.2  parso==0.8.4  platformdirs==4.2.1  pluggy==1.0.0  pure-eval==0.2.2  pycosat==0.6.6  pycparser==2.21  Pygments==2.18.0  PySocks==1.7.1  requests==2.32.3  ruamel.yaml==0.17.21  stack-data==0.6.3  tqdm==4.66.4  traitlets==5.14.3  truststore==0.8.0  urllib3==2.2.2  zstandard==0.22.0  pykan
+#!pip install archspec==0.2.3  asttokens==2.4.1  boltons==23.0.0  Brotli==1.0.9  charset-normalizer==2.0.4  colorama==0.4.6  comm==0.2.2  cryptography==42.0.5  decorator==4.4.2  distro==1.9.0  executing==2.0.1  frozendict==2.4.2  idna==3.7  jedi==0.19.1  jsonpatch==1.33  jsonpointer==2.1  nest-asyncio==1.6.0  packaging==23.2  parso==0.8.4  platformdirs==4.2.1  pluggy==1.0.0  pure-eval==0.2.2  pycosat==0.6.6  pycparser==2.21  Pygments==2.18.0  PySocks==1.7.1  requests==2.32.3  ruamel.yaml==0.17.21  stack-data==0.6.3  tqdm==4.66.4  traitlets==5.14.3  truststore==0.8.0  urllib3==2.2.2  zstandard==0.22.0  pykan
 
 
 # ## Step 1: Import Libraries and Set Up the Environment
